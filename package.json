@@ -1,0 +1,44 @@
+{
+  "name": "gulp-spritesmith-meta",
+  "version": "1.0.0",
+  "description": "Create sprites and their meta files using spritesmith",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoubin/gulp-spritesmith-meta.git"
+  },
+  "keywords": [
+    "sprites",
+    "spritesmith",
+    "gulp",
+    "gulp-plugin"
+  ],
+  "author": "zoubin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoubin/gulp-spritesmith-meta/issues"
+  },
+  "homepage": "https://github.com/zoubin/gulp-spritesmith-meta#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "node-promisify": "^0.2.2",
+    "spritesmith": "^1.4.3",
+    "through2": "^2.0.0",
+    "util-mix": "^3.0.2"
+  },
+  "devDependencies": {
+    "callback-sequence": "^1.2.1",
+    "coveralls": "^2.11.4",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-istanbul": "^0.10.1",
+    "gulp-tape": "0.0.4",
+    "tap-spec": "^4.1.0",
+    "tape": "^4.2.0",
+    "task-tape": "^1.0.0"
+  }
+}

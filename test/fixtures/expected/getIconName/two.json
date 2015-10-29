@@ -1,0 +1,25 @@
+{
+  "width": 150,
+  "height": 200,
+  "name": "two",
+  "coordinates": {
+    "SPRITE1.PNG": {
+      "x": 100,
+      "y": 0,
+      "width": 50,
+      "height": 50
+    },
+    "SPRITE3.PNG": {
+      "x": 0,
+      "y": 0,
+      "width": 100,
+      "height": 200
+    },
+    "SPRITE2.JPG": {
+      "x": 100,
+      "y": 50,
+      "width": 50,
+      "height": 50
+    }
+  }
+}
